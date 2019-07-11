@@ -70,10 +70,5 @@ poke.add(new Pokemon(name,image,type,ability,height,weight,description));
 
 
 
-        } catch (ExecutionException | JSONException e) {
-            e.printStackTrace();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-    }
-}
+
+    
